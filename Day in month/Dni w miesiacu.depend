@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1483787470 source:c:\c++\dni w miesiacu\main.cpp
+	<iostream>
+	<cstdlib>
+
