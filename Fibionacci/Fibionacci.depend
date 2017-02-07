@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1483728169 source:c:\c++\fibionacci\main.cpp
+	<iostream>
+	<iomanip>
+
