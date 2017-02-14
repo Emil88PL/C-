@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484132057 source:c:\c++\szybkosc dzialania wskaznikow\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+
