@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1484398220 source:c:\c++\podaj 5 liczb najblizsza sredniej\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	<cstdlib>
+	<iostream>
+
