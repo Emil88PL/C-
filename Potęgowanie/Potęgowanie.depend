@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485279395 source:c:\c++\potêgowanie\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
