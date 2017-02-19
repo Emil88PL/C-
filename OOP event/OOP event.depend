@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1486132068 source:c:\c++\oop event\event.cpp
+	<iostream>
+	"event.h"
+
+1486132366 c:\c++\oop event\event.h
+	<iostream>
+
+1486132284 source:c:\c++\oop event\main.cpp
+	<iostream>
+	"event.h"
+
