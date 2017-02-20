@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1486115235 source:c:\c++\oop pytania\main.cpp
+	<iostream>
+
+1486116411 source:c:\c++\oop pytania\pytanie.cpp
+	<iostream>
+	"pytanie.h"
+	<fstream>
+	<cstdlib>
+
+1486116260 c:\c++\oop pytania\pytanie.h
+	<iostream>
+
