@@ -1,0 +1,16 @@
+   if(pp###=='n'){
+    if(who=='o'){
+       p###->Picture->LoadFromFile("img/o.bmp");
+       pp###='o';
+       who='x';
+       t->Picture->LoadFromFile("img/xsmall.bmp");
+
+    }else{
+        p###->Picture->LoadFromFile("img/x.bmp");
+        pp###='x';
+        who='o';
+        t->Picture->LoadFromFile("img/osmall.bmp");
+    }
+     p###->Enabled=false;
+     check();
+   }
